@@ -1,0 +1,8 @@
+
+Layout: Design a layout that is confusing and hard to navigate. For example, you could place navigation links in unexpected places, use inconsistent styling, or make important information hard to find.
+
+Colors and Fonts: Use clashing colors and hard-to-read fonts. You could also use inconsistent font sizes and colors.
+
+Interactive Elements: Add forms, buttons, and other interactive elements, but make them behave in unexpected
+Animations: Use animations, but make them slow, distracting, or annoying. For example, you could make an important piece of text slowly scroll across the screen, or have pop-ups that can't be closed.
+Content: The content should be hard to read and understand. You could use long, complex sentences, or jargon that your audience won't understand.

@@ -17,3 +17,11 @@ document.getElementById('myButton').addEventListener('mouseover', function(event
 function showPopup() {
     document.getElementById('popup').style.display = 'block';
 }
+function showPopup() {
+    // Display the message
+    document.getElementById('popup').textContent = 'Loser!';
+
+    // Play the sound
+    var audio = new Audio('weird-music.mp3');
+    audio.play();
+}
